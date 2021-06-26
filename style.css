@@ -11,6 +11,13 @@ section #featured-property {align-items: center;}
 
 nav {background-color: grey;}
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .a {
   padding: 0px 10px 0px;
 }
